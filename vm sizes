@@ -1,0 +1,27 @@
+# ☁️ Azure Learning Journey 🚀
+
+## 📅 Day 01 — Azure VM Sizes 🖥️
+
+### 🔹 B-Series
+**🇬🇧 English:** Low-cost, burstable VMs for workloads that need CPU occasionally.  
+**🇮🇳 Tamil:** அவ்வப்போது CPU அதிகமாக தேவைப்படும் குறைந்த செலவு workloads-க்கு பயன்படுத்தப்படும் VM.
+
+### 🔹 D-Series
+**🇬🇧 English:** General-purpose VMs with a balanced combination of CPU and memory.  
+**🇮🇳 Tamil:** CPU மற்றும் RAM இரண்டிற்கும் balanced performance வழங்கும் பொதுவான VM.
+
+### 🔹 F-Series
+**🇬🇧 English:** Compute-optimized VMs designed for CPU-intensive workloads.  
+**🇮🇳 Tamil:** CPU அதிகமாக தேவைப்படும் applications-க்கு பயன்படுத்தப்படும் VM.
+
+### 🔹 E-Series
+**🇬🇧 English:** Memory-optimized VMs designed for applications that require more RAM.  
+**🇮🇳 Tamil:** அதிக RAM தேவைப்படும் applications மற்றும் databases-க்கு பயன்படுத்தப்படும் VM.
+
+### 🔹 L-Series
+**🇬🇧 English:** Storage-optimized VMs designed for high disk I/O workloads.  
+**🇮🇳 Tamil:** அதிக disk read/write தேவைப்படும் workloads-க்கு பயன்படுத்தப்படும் VM.
+
+### 🔹 NC / ND / NV Series 🎮
+**🇬🇧 English:** GPU-enabled VMs for AI, machine learning, graphics, and rendering workloads.  
+**🇮🇳 Tamil:** AI, Machine Learning, Graphics மற்றும் Rendering போன்ற GPU workloads-க்கு பயன்படுத்தப்படும் VM.
